@@ -4,7 +4,7 @@ ContextAndRedux is a simple comparison of the two state management methods in a 
 
 - context repository (https://github.com/TomaszJarkowski/context)
 
-## Live (https://tomaszjarkowski.github.io/redux/)
+## Live (https://tomaszjarkowski.github.io/reduxproject/)
 
 ## Getting Started
 
